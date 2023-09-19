@@ -6,4 +6,4 @@
 | [GeoPackage](https://github.com/icn-sousa/material_complementar_artigos/blob/main/rdc_2021.gpkg) | [Conflitualidade ambiental em São Carlos/SP: mapeamento como diagnóstico e subsídio ao planejamento de políticas públicas municipais](https://www.researchgate.net/publication/354806222_Conflitualidade_ambiental_em_Sao_CarlosSp_mapeamento_como_diagnostico_e_subsidio_ao_planejamento_de_politicas_publicas_municipais) |
 | [GeoPackage (compactado)](https://github.com/icn-sousa/material_complementar_artigos/blob/main/rcg_2021.rar) | [Urbanização sustentável: métricas espaciais e tipologias de crescimento](https://seer.ufu.br/index.php/caminhosdegeografia/article/view/56557) |
 
-[Principais diferenças entre Geopackage e Shapefile](https://www.youtube.com/watch?v=SD3_rtngjEk)
+Referência: [Principais diferenças entre Geopackage e Shapefile](https://www.youtube.com/watch?v=SD3_rtngjEk)
